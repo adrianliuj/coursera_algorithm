@@ -1,0 +1,5 @@
+﻿  version3.cpp
+c:\often\stanford__algorithm\assignment1\assignment1\version3.cpp(88): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\often\stanford__algorithm\assignment1\assignment1\version3.cpp(106): warning C4715: 'multi': not all control paths return a value
+  assignment1.vcxproj -> C:\Often\stanford__algorithm\assignment1\Debug\assignment1.exe
+  assignment1.vcxproj -> C:\Often\stanford__algorithm\assignment1\Debug\assignment1.pdb (Partial PDB)

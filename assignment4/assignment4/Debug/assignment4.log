@@ -1,0 +1,7 @@
+﻿  graph.cpp
+c:\often\stanford__algorithm\assignment4\assignment4\graph.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\often\stanford__algorithm\assignment4\assignment4\graph.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\often\stanford__algorithm\assignment4\assignment4\graph.cpp(37): warning C4018: '<': signed/unsigned mismatch
+c:\often\stanford__algorithm\assignment4\assignment4\graph.cpp(39): warning C4018: '<': signed/unsigned mismatch
+  assignment4.vcxproj -> C:\Often\stanford__algorithm\assignment4\Debug\assignment4.exe
+  assignment4.vcxproj -> C:\Often\stanford__algorithm\assignment4\Debug\assignment4.pdb (Partial PDB)
